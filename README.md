@@ -1,2 +1,2 @@
-# photo
-Photo portfolio website
+# Travellery Website
+Portfolio website for travel photos 
